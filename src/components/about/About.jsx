@@ -40,10 +40,20 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Eaque eos
-            voluptatem eius dolorem maiores nihil ducimus at rem ullam
-            reprehenderit quidem quia deserunt, molestiae, eligendi amet
-            repellat molestias quos totam.
+            My name is Elizabeth Cano, I’m an entrepreneur, a full time Business
+            Analyst employee and a very active member of my community which it’s
+            something that I really enjoy. I always knew I wanted to be an
+            entrepreneur so I went to business management school and minored in
+            <br></br>
+            financial mathematics. I have spent many years in operations,
+            logistics, managerial positions and sales. I think the fact that I
+            started working since I was 6yo has given me a very extensive
+            background and unique set of skills. I’ve been privileged with self
+            drive and determination which have allowed me to accomplish many
+            goals but my biggest accomplishments are being a mother and wife.
+            Family has allowed me to discover that guide and helping others is
+            my specialty. I drink way too much coffee but I guess… sleep is for
+            the weak!
           </p>
 
           <a href="#contact" className="btn btn-primary">
