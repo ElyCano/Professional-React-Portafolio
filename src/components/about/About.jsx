@@ -44,16 +44,16 @@ const About = () => {
             Analyst employee and a very active member of my community which it’s
             something that I really enjoy. I always knew I wanted to be an
             entrepreneur so I went to business management school and minored in
-            <br></br>
-            financial mathematics. I have spent many years in operations,
-            logistics, managerial positions and sales. I think the fact that I
-            started working since I was 6yo has given me a very extensive
-            background and unique set of skills. I’ve been privileged with self
-            drive and determination which have allowed me to accomplish many
-            goals but my biggest accomplishments are being a mother and wife.
-            Family has allowed me to discover that guide and helping others is
-            my specialty. I drink way too much coffee but I guess… sleep is for
-            the weak!
+            financial mathematics.
+            <br></br>I have spent many years in operations, logistics,
+            managerial positions and sales. I think the fact that I started
+            working since I was 6yo has given me a very extensive background and
+            unique set of skills. I’ve been privileged with self drive and
+            determination which have allowed me to accomplish many goals but my
+            biggest accomplishments are being a mother and wife. Family has
+            allowed me to discover that guide and helping others is my
+            specialty. I drink way too much coffee but I guess… sleep is for the
+            weak!
           </p>
 
           <a href="#contact" className="btn btn-primary">
