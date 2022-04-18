@@ -42,11 +42,11 @@ THEN I am presented with text or icon links to the developer’s GitHub and Link
 
 ## Screenshot
 
-- Screenshot Link [Click here](https://github.com/ElyCano/budget-tracker-ec/blob/main/screenshot/Screenshot%202022-04-11%20184250.png?raw=true).
+- Screenshot Link [Click here](https://github.com/ElyCano/Professional-React-Portafolio/blob/main/src/assets/screenshot.jpg?raw=true).
 
 ## Deployed
 
-Deployed Link [Click here](https://budget-tracker-ec.herokuapp.com/).
+Deployed Link [Click here](https://professional-react-portafolio.herokuapp.com/).
 
 ## Table of Contents
 
