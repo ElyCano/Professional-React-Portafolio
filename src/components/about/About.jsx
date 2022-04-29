@@ -4,6 +4,8 @@ import ME from "../../assets/me-about1.jpg";
 import { FaAward } from "react-icons/fa";
 import { FiUsers } from "react-icons/fi";
 import { VscFolderLibrary } from "react-icons/vsc";
+import CTA from "../header/CTA";
+import HeaderSocial from "../header/HeaderSocials";
 
 const About = () => {
   return (
@@ -15,6 +17,8 @@ const About = () => {
         <div className="about__me">
           <div className="about__me-image">
             <img src={ME} alt="About Image" />
+            <CTA />
+            <HeaderSocial />
           </div>
         </div>
 

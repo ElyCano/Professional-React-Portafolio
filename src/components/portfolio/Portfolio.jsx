@@ -20,9 +20,9 @@ const data = [
   {
     id: 2,
     image: IMG2,
-    title: "Wedding Rental Decor Lost Sales Trackable Application",
-    github: "https://github.com/ElyCano/partydreams-lost-sales-entries",
-    demo: "https://partydreams-lost-sales-entries.herokuapp.com/",
+    title: "E-commerce Shop-Redux",
+    github: "https://github.com/ElyCano/redux-shop-ec.git",
+    demo: "https://redux-shop-ec.herokuapp.com",
   },
   {
     id: 3,
